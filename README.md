@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohanMoback
 - 👀 I’m interested in DevOps, Automation, AI & NLP
-- 🌱 I’m currently learning Kubernetes & Docker
+- 🌱 I’m currently learning IPFS protocol for decentralized web
 - 💞️ I’m looking to collaborate on what ever that is interesting!
 - 📫 How to reach me: mobackjohan@gmail.com
 
